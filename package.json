@@ -1,0 +1,40 @@
+{
+  "name": "perma.db",
+  "version": "0.0.4",
+  "description": "permanent key value db based on better sqlite",
+  "main": "./lib/dist/index.js",
+  "types": "./lib/types/index.d.ts",
+  "scripts": {
+    "start": "node .",
+    "test": "node lib/tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rednexie/perma.db.git"
+  },
+  "keywords": [
+    "db",
+    "sqlite",
+    "key-value",
+    "keyval",
+    "store",
+    "key-value-store",
+    "database",
+    "persistent",
+    "nosql",
+    "storing",
+    "perma",
+    "permanent",
+    "permadb"
+  ],
+  "author": "Rednexie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rednexie/perma.db/issues"
+  },
+  "homepage": "https://github.com/Rednexie/perma.db#readme",
+  "dependencies": {
+    "better-sqlite3": "^9.6.0",
+    "perma.db": "^0.0.2"
+  }
+}
