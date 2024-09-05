@@ -1,7 +1,10 @@
 const path = require("path")
 const fs = require("./fs")
 
+const { Database: Sqlite3 } = require('bun:sqlite') 
+
 const cachedb = require('./cache')
+
 
 global.permadb = null
 
