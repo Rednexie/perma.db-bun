@@ -3,4 +3,4 @@
 Bun module of [perma.db](https://npmjs.com/perma.db) using bun:sqlite as the sqlite dialect.
 
 
-PermaDB Documentation: https://https://rednexie.gitbook.io/permadb/bun.js
+PermaDB Documentation: https://rednexie.gitbook.io/permadb/bun.js
