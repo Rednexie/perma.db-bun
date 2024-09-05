@@ -1,15 +1,6 @@
 # perma.db-bun
 
-To install dependencies:
+Bun module of [perma.db](https://npmjs.com/perma.db) using bun:sqlite as the sqlite dialect.
 
-```bash
-bun install
-```
 
-To run:
-
-```bash
-bun run index.js
-```
-
-This project was created using `bun init` in bun v1.1.26. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+PermaDB Documentation: https://https://rednexie.gitbook.io/permadb/bun.js
